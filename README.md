@@ -1,6 +1,6 @@
 'Durango 2023' esto es una nueva rama
 
-Añadido al maestro. otra vez
+Mi horrible conflicto de fusión de codigo
 
 Cambio hecho para git pull demo
 
