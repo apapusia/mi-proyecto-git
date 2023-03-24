@@ -1,5 +1,6 @@
 print('Hi GIT')
-print('Mi inocente pequeño cambio')
+
+print('Hola: Mi horrible conflicto de fusión python')
 
 print('Hi to pull/fench')
 
